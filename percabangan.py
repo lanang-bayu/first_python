@@ -15,3 +15,4 @@ if jumlah_telur > 0:
     print("Anak membeli telur")
 else:
     print("Anak tidak membeli telur")
+
