@@ -47,7 +47,7 @@ buku = daftar_buku.pop(1)
 for i in range (0, len(daftar_buku)):
     print(daftar_buku[i])
 
-print('\ndata yang diambil pop tadi :')
+print('\ndata yang diambil pop tadi : ')
 print(buku)
 
 print('\nPop :')
