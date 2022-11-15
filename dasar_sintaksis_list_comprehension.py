@@ -37,7 +37,7 @@ del daftar_buku[:]
 for i in range (0, len(daftar_buku_baru)):
     print(daftar_buku_baru[i])
 
-print('\nMembuat list baru dengan comprehension : genap')
+print('\nMembuat list baru dengan comprehension : genap ')
 daftar_buku = ['1 The Power of Kepepet', '2 Persuasive Copywriting', '3 Seni Hidup Minimalis', '4 Jurus Sehat Rasulullah']
 daftar_buku_baru = daftar_buku[1::2] # START:END:STEP
 del daftar_buku[:]
